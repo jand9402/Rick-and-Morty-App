@@ -1,0 +1,56 @@
+.card{
+    border-radius: 20px;
+    height: 450px;
+    width: 250px;
+    margin-bottom: 20px;
+    background-color: #000000;
+    
+}
+
+ .img-card{
+     max-height: 200px;
+     width: 100%;
+     border-radius: 15px ;
+     -webkit-border-radius: 15px ;
+     -moz-border-radius: 15px ;
+     -ms-border-radius: 15px ;
+     -o-border-radius: 15px ;
+}
+
+ .card-title{
+    padding-top: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.card-text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    text-align: left;
+}
+
+.card-weight{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.card-temperaments{
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 20px;
+}
+
+.link-card{
+    text-decoration: none;
+    width: 100%;
+}
+
+.form-select{
+    margin-bottom: 0px;
+}

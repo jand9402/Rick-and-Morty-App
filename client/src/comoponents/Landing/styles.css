@@ -1,0 +1,45 @@
+.div-landing{
+    background-image: url('https://ak.picdn.net/shutterstock/videos/6232958/thumb/1.jpg?ip=x480');
+}
+
+.container{
+    padding: 0 !important;
+    width: 100% !important;
+    height: 100vh !important;
+}
+
+.row{
+    height: 100vh !important;
+    
+}
+
+.col{
+    height: 100vh !important;
+   
+}
+
+.imagen_landing{
+    max-height: 100vh !important;
+    padding-left: 20%;
+}
+
+.boton_landing{
+    margin-right: 200px;
+    border-radius: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    background-color: rgb(41, 231, 41);
+    border: none;
+    font-size: xx-large;
+    height: 100px;
+    width: 200px;
+    position:relative;
+    top:50%;
+    transition: 300ms all;
+}
+
+.boton_landing:hover{
+    background-color: #6b6864;
+    color: white;
+}
+ 

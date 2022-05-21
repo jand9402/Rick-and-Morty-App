@@ -1,0 +1,87 @@
+.div-create{
+    margin-top: -50px;
+    background-image: radial-gradient(circle at 85.05% 20.59%, #ff43ff 0, #ff41fa 12.5%, #e53eec 25%, #b337d8 37.5%, #7f2dbd 50%, #4b22a0 62.5%, #071985 75%, #00126d 87.5%, #000358 100%);
+    min-height: 900px;
+}
+
+
+.btn-home-create{
+    background-color: #FDB927;
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    transition: 300ms all;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 40px;
+}
+
+.btn-home-create:hover{
+    background-color: #6b6864;
+    color: white;
+}
+
+.create-title{
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: 2px 2px rgb(26, 25, 25);
+}
+
+.label{
+    color: white;
+    float: left;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+}
+
+.input-text{
+    color: black;
+    float: right;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+}
+
+.btn-create-dog{
+    background-color: #FDB927;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    transition: 300ms all;
+    border: none;
+    border-radius: 10px;
+}
+
+.btn-create-dog:hover{
+    background-color: #6b6864;
+    color: white;
+}
+
+.temps-selecte{
+    margin-top: 15px;
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.erros{
+    color: #fbe83d;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-weight: bold;
+}
+
+.temperamet{
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.button-delete{
+    background-color: #FDB927;
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    transition: 300ms all;
+    border: none;
+    border-radius: 10px;
+}
+
+.button-delete:hover{
+    background-color: #6b6864;
+    color: white;
+} 
